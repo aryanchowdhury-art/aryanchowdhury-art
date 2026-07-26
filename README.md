@@ -1,12 +1,15 @@
+````markdown
 <div align="center">
 
 # Aryan
 
 ### Building knowledge systems from first principles.
 
-*"Understanding is demonstrated by reconstruction, not memorization."*
+*"Understanding is not collected. It is reconstructed."*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aryanchowdhury-art&style=flat-square&color=blue)](https://github.com/aryanchowdhury-art)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aryanchowdhury-art&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
@@ -14,103 +17,111 @@
 
 # About Me
 
-```python
-class Aryan:
+I enjoy understanding **how** systems work rather than simply learning **that** they work.
 
-    def __init__(self):
+Instead of beginning with existing frameworks, I prefer rebuilding ideas from first principles, testing them experimentally, and then comparing my conclusions with established literature.
 
-        self.location = "Hyderabad, India"
+This philosophy shapes every repository I create.
 
-        self.education = "B.Tech Computer Science Engineering (AI/ML)"
+---
 
-        self.current_focus = [
-            "Data Science",
-            "Machine Learning",
-            "Statistics",
-            "Optimization",
-            "Scientific Computing",
-            "Semiconductor Engineering"
-        ]
+# Research Profile
 
-        self.tools = [
-            "Python",
-            "SQL",
-            "Excel",
-            "Git",
-            "GitHub"
-        ]
-
-        self.mindset = "First Principles"
-
-        self.philosophy = (
-            "Rebuild. Verify. Improve."
-        )
-
-    def research(self):
-
-        while True:
-
-            observe()
-
-            question()
-
-            reconstruct()
-
-            experiment()
-
-            compare_with_literature()
-
-            improve()
-```
+| | |
+|:---|:---|
+| **Location** | Hyderabad, India 🇮🇳 |
+| **Education** | B.Tech Computer Science Engineering (AI/ML) |
+| **Current Direction** | Data Science • Machine Learning • Scientific Computing |
+| **Research Interests** | Optimization • Statistics • AI • VLSI • Knowledge Systems |
+| **Working Principle** | First Principles → Experiment → Validation |
+| **Current Status** | Building projects and documenting the learning journey publicly |
 
 ---
 
 # Philosophy
 
-I don't study to collect information.
-
-I study to understand **why** systems work.
-
-My learning process follows a simple cycle:
-
-```
+```text
 Observe
-    ↓
+      ↓
 Question
-    ↓
-Build from First Principles
-    ↓
+      ↓
+Reconstruct
+      ↓
 Experiment
-    ↓
-Compare with Established Knowledge
-    ↓
+      ↓
+Validate
+      ↓
 Refine
+      ↓
+Repeat
 ```
 
-The objective is not simply to reproduce existing ideas, but to independently derive, validate, and improve them whenever possible.
+I believe that genuine understanding comes from reconstruction.
+
+Whenever possible, I derive ideas independently, verify them experimentally, compare them against established knowledge, and refine my mental models accordingly.
 
 ---
 
-# Current Research Interests
+# Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Optimization
+<table>
+<tr>
+<td width="50%">
+
+### Data Science
+
+- Data Analysis
 - Statistics
+- SQL
+- Excel
+- Power BI
+- Python
+
+</td>
+
+<td width="50%">
+
+### Machine Learning
+
+- Classical ML
+- Model Evaluation
+- Optimization
+- Feature Engineering
 - Scientific Computing
-- Semiconductor Physics
-- VLSI Design
-- Knowledge Representation
-- Systems Thinking
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Current Projects
+# Long-Term Research Areas
+
+```text
+Artificial Intelligence
+
+Machine Learning
+
+Scientific Computing
+
+Optimization
+
+Knowledge Representation
+
+Semiconductor Engineering
+
+VLSI Design
+
+Complex Systems
+```
+
+---
+
+# Active Projects
 
 ## Civilization Knowledge System
 
-A long-term project to organize human knowledge into an interconnected digital library spanning:
+A long-term project focused on organizing human knowledge into an interconnected digital library spanning:
 
 - Mathematics
 - Physics
@@ -128,49 +139,42 @@ A long-term project to organize human knowledge into an interconnected digital l
 
 ## Data Science Portfolio
 
-Building end-to-end projects involving:
+A growing collection of projects covering the complete analytical workflow:
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
-- Machine Learning
-- Visualization
-- Model Evaluation
+```
+Raw Data
+    │
+    ▼
+Cleaning
+    │
+    ▼
+Exploration
+    │
+    ▼
+Visualization
+    │
+    ▼
+Modeling
+    │
+    ▼
+Evaluation
+```
 
 ---
 
 ## Scientific Learning Tracker
 
-A self-developed system for tracking:
+A personal system for measuring learning objectively.
 
-- Study hours
+Tracks:
+
+- Daily study hours
+- Topic progression
 - Retention
-- Understanding
-- Weak concepts
 - Revision cycles
+- Concept mastery
 
-Learning is measured through evidence rather than time spent.
-
----
-
-# Current Learning Roadmap
-
-```
-Python
-    │
-    ├── Data Analysis
-    │       ├── Pandas
-    │       ├── NumPy
-    │       └── Visualization
-    │
-    ├── Statistics
-    │
-    ├── Machine Learning
-    │
-    ├── Deep Learning
-    │
-    └── Scientific Computing
-```
+Learning is measured through evidence—not assumptions.
 
 ---
 
@@ -178,42 +182,59 @@ Python
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github" />
+</p>
 
-### Data
+### Data Science
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
 
-### Libraries
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Excel
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
 
 ---
 
-# GitHub Statistics
+# Current Learning Path
+
+```text
+Computer Science
+        │
+        ├────────────── Python
+        │                   │
+        │                   ├── Data Analysis
+        │                   ├── Statistics
+        │                   ├── Machine Learning
+        │                   ├── Deep Learning
+        │                   └── Scientific Computing
+        │
+        └────────────── Semiconductor Engineering
+                            │
+                            ├── Device Physics
+                            ├── CMOS
+                            ├── RTL
+                            ├── Physical Design
+                            └── VLSI
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true"/>
 
-![](https://streak-stats.demolab.com?user=aryanchowdhury-art&theme=github-dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=aryanchowdhury-art&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -221,44 +242,41 @@ Python
 
 # Principles
 
-```
-Knowledge is reconstructed.
+> **Understand before optimizing.**
 
-Evidence outweighs assumptions.
+> **Measure before concluding.**
 
-Models are hypotheses.
+> **Evidence over assumption.**
 
-Understanding precedes optimization.
+> **Documentation over memory.**
 
-Learning is continuous.
-```
+> **Learning never reaches version 1.0.**
 
 ---
 
-# Current Objective
+# Currently Reading
 
-```
-Acquire deep scientific understanding.
-
-Build reproducible projects.
-
-Document the learning process.
-
-Contribute meaningful research and engineering work.
-
-Continue improving.
-```
+- Mathematics
+- Statistics
+- Machine Learning
+- Scientific Computing
+- Semiconductor Physics
+- Optimization
+- Algorithms
 
 ---
+
+# Connect
 
 <div align="center">
 
-### Contact
+📧 **Email**
 
-📧 **Email:** chowdhuryaryan81@gmail.com
+**chowdhuryaryan81@gmail.com**
 
 ---
 
-> *"Reconstruct. Verify. Improve. Repeat."*
+*"Every model is a hypothesis until reality disagrees."*
 
 </div>
+````
