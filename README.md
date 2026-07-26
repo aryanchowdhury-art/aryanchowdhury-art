@@ -42,18 +42,36 @@ My repositories document the process of rebuilding concepts from first principle
 
 ## Technologies
 
-**Languages**
+### Languages
 
-`Python` `SQL` `C`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,sql" />
+</p>
 
-**Data**
+### Frontend
 
-`Excel` `Power BI` `Pandas` `NumPy`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,sass" />
+</p>
 
-**Tools**
+### Data Science
 
-`Git` `GitHub`
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## Philosophy
