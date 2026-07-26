@@ -85,6 +85,8 @@ My repositories document the process of rebuilding concepts from first principle
 ## Contact
 
 📧 **Email:** chowdhuryaryan81@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/aryan-chowdhury-b50069407/
+
 
 ---
 
