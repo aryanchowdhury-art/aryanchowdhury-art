@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aryan Kuman Chowdhury
+## Aryan Kuman Chowdhury
 
 ### Building knowledge systems from first principles.
 
