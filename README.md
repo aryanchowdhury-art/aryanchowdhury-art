@@ -91,8 +91,10 @@ My repositories document the process of **rebuilding concepts from first princip
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🛠️ Tech Stack
-💻 Languages
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -100,7 +102,8 @@ My repositories document the process of **rebuilding concepts from first princip
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
-🎨 Frontend
+
+### 🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -108,7 +111,8 @@ My repositories document the process of **rebuilding concepts from first princip
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
-📊 Data Science & ML
+
+### 📊 Data Science & ML
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -119,7 +123,8 @@ My repositories document the process of **rebuilding concepts from first princip
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
-🔧 Tools & Platforms
+
+### 🔧 Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -127,68 +132,36 @@ My repositories document the process of **rebuilding concepts from first princip
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB ANALYTICS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-📊 GitHub Analytics
+
+## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aryanchowdhury-art&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanchowdhury-art&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aryanchowdhury-art&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 </div>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     PHILOSOPHICAL APPROACH                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-🧭 Philosophical Approach
-<div align="center">
-plain
-┌─────────────────────────────────────────┐
-│  1. Observe    →  2. Question           │
-│  3. Reconstruct →  4. Experiment        │
-│  5. Validate   →  6. Refine             │
-└─────────────────────────────────────────┘
-</div>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CONNECT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-🌐 Connect with Me
-<div align="center">
-  <a href="mailto:chowdhuryaryan81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aryan-chowdhury-b50069407/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/aryanchowdhury-art">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/aryanchowdhury-art">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</div>
 
-<div align="center">
-  <i>"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."</i>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
-</div>
-```
+<br>
