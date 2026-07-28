@@ -47,11 +47,6 @@ My repositories document the process of **rebuilding concepts from first princip
 - 🏛️ Civilization-scale Knowledge Systems
 - ⚡ Scientific Computing & Optimization
 
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" width="100%" />
-    </td>
-  </tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
