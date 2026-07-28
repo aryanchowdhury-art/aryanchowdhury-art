@@ -135,4 +135,9 @@ My repositories document the process of **rebuilding concepts from first princip
 
 ---
 
+<div align="center">
+
+*"Every model is a hypothesis until reality disagrees."*
+
+</div>
 
