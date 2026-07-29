@@ -2,7 +2,7 @@
 <!--                         HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,100:f093fb&height=220&section=header&text=Aryan%20Kuman%20Chowdhury&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20knowledge%20systems%20from%20first%20principles.&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,40:764ba2,100:f093fb&height=220&section=header&text=Aryan%20Kuman%20Chowdhury&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20knowledge%20systems%20from%20first%20principles.&descAlignY=55&descSize=18" width="100%" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Understand.+Reconstruct.+Verify.;First+Principles+Thinker.;Data+Science+%7C+ML+%7C+AI;Turning+Complexity+into+Clarity." alt="Typing SVG" />
