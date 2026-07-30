@@ -2,9 +2,9 @@
 
 I build knowledge systems from first principles.
 
-My repositories document the process of reconstructing ideas from the ground up — validating them experimentally and comparing them with established theory. I care more about understanding why a system works than learning how to configure it.
+My repositories document the process of reconstructing ideas from the ground up — validating them experimentally and comparing them with established theory. I care more about understanding *why* a system works than simply learning how to use it.
 
-Currently focused on statistics, machine learning internals, and scientific computing, with a growing interest in semiconductor engineering and civilization-scale knowledge systems.
+**Currently focused on** statistics, machine learning internals, and scientific computing, with growing interest in semiconductor engineering and civilization-scale knowledge systems.
 
 ---
 
@@ -17,28 +17,34 @@ Currently focused on statistics, machine learning internals, and scientific comp
 
 ---
 
-## Research Interests
+## Areas of Interest
 
-- Statistics & Probability
-- Machine Learning (internals and theory)
-- Data Science
-- Scientific Computing
-- Optimization
-- Semiconductor Engineering
-- Knowledge Systems
+| Domain | Focus |
+|--------|-------|
+| Statistics & Probability | Foundations and inference |
+| Machine Learning | Internals and theory |
+| Data Science | End-to-end analysis |
+| Scientific Computing | Numerical methods |
+| Optimization | Convex & combinatorial |
+| Semiconductor Engineering | Device physics & VLSI |
+| Knowledge Systems | Ontologies & reasoning |
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, C, C++, TypeScript, SQL
+**Languages**  
+Python · C · C++ · TypeScript · SQL
 
-**Data Science & ML:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Excel, Power BI
+**Data Science & ML**  
+Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · PyTorch · Excel · Power BI
 
-**Frontend:** React, HTML, CSS, Sass, Tailwind CSS
+**Frontend**  
+React · HTML · CSS · Sass · Tailwind CSS
 
-**Tools:** Git, GitHub, VS Code, Linux, Docker
+**Tools**  
+Git · GitHub · VS Code · Linux · Docker
 
 ---
 
-&gt; "Every model is a hypothesis until reality disagrees."
+> *"Every model is a hypothesis until reality disagrees."*
