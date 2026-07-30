@@ -1,138 +1,44 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER BANNER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,40:764ba2,100:f093fb&height=220&section=header&text=Aryan%20Kuman%20Chowdhury&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20knowledge%20systems%20from%20first%20principles.&descAlignY=55&descSize=18" width="100%" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Understand.+Reconstruct.+Verify.;First+Principles+Thinker.;Data+Science+%7C+ML+%7C+AI;Turning+Complexity+into+Clarity." alt="Typing SVG" />
-  </a>
-</div>
+# Aryan Kuman Chowdhury
 
-<br>
+I build knowledge systems from first principles.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      PROFILE METRICS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanchowdhury-art&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aryanchowdhury-art?label=Followers&style=for-the-badge&color=764ba2&labelColor=1a1a2e" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aryanchowdhury-art?label=Stars&style=for-the-badge&color=f093fb&labelColor=1a1a2e" alt="Stars" />
-</div>
+My repositories document the process of reconstructing ideas from the ground up — validating them experimentally and comparing them with established theory. I care more about understanding why a system works than learning how to configure it.
 
-<br>
+Currently focused on statistics, machine learning internals, and scientific computing, with a growing interest in semiconductor engineering and civilization-scale knowledge systems.
 
-<div align="center">
-  <i>"Every model is a hypothesis until reality disagrees."</i>
-</div>
+---
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🧠 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-I enjoy understanding **why** systems work rather than simply learning **how** to use them.
-
-My repositories document the process of **rebuilding concepts from first principles**, validating them experimentally, and comparing them with established knowledge.
-
-**Currently exploring:**
-- 🧮 Statistics & Probability from the ground up
-- 🤖 Machine Learning internals, not just APIs  
-- 🏛️ Civilization-scale Knowledge Systems
-- ⚡ Scientific Computing & Optimization
-
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      RESEARCH INTERESTS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🔬 Research Interests
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | 🧮 Machine Learning | 📊 Data Science |
-|:---:|:---:|:---:|
-| *Neural architectures* | *Supervised & unsupervised* | *Visualization & inference* |
-
-| 📈 Statistics | ⚡ Optimization | 🔬 Scientific Computing |
-|:---:|:---:|:---:|
-| *Bayesian & frequentist* | *Convex & combinatorial* | *Numerical methods* |
-
-| 💻 Semiconductor Engineering | 🏛️ Knowledge Systems |
-|:---:|:---:|
-| *Device physics & VLSI* | *Ontologies & reasoning* |
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CURRENT FOCUS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 ## Current Focus
 
-- Building a Data Science portfolio
-- Studying statistics and machine learning
+- Building a Data Science portfolio with end-to-end projects
+- Studying statistics and machine learning from first principles
 - Developing a Civilization Knowledge System
 - Documenting my learning process publicly
 
 ---
 
-## Technologies
+## Research Interests
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,sql" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,sass" />
-</p>
-
-### Data Science
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
----
-
-## Philosophy
-
-> Observe.
->
-> Question.
->
-> Reconstruct.
->
-> Experiment.
->
-> Validate.
->
-> Refine.
+- Statistics & Probability
+- Machine Learning (internals and theory)
+- Data Science
+- Scientific Computing
+- Optimization
+- Semiconductor Engineering
+- Knowledge Systems
 
 ---
 
-<div align="center">
+## Tech Stack
 
-*"Every model is a hypothesis until reality disagrees."*
+**Languages:** Python, C, C++, TypeScript, SQL
 
-</div>
+**Data Science & ML:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Excel, Power BI
 
+**Frontend:** React, HTML, CSS, Sass, Tailwind CSS
+
+**Tools:** Git, GitHub, VS Code, Linux, Docker
+
+---
+
+&gt; "Every model is a hypothesis until reality disagrees."
