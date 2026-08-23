@@ -1,5 +1,5 @@
 <h1 align="center">  Aryan Kumar Chowdhury</h1>
-
+  
 <p align="center">
   <i>Building knowledge systems from <b>first principles</b>.</i>
 </p>
