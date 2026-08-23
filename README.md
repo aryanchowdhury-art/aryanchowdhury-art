@@ -6,7 +6,7 @@
 
 ---
 
-### About
+  ### About
 
 I reconstruct ideas from the ground up — validating them experimentally and comparing them with established theory.  
 
