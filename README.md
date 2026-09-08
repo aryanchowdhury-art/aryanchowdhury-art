@@ -24,13 +24,7 @@ Mathematics → Data → Models → Experiments → Insights
 
 ---
 
-<p align="center">
-  <img
-    src="./assets/data-science-banner.png"
-    alt="Data Science workflow: Data to Mathematics to Model to Experiment to Insight"
-    width="100%"
-  />
-</p>
+
 
 ---
 
