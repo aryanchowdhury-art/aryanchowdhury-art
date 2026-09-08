@@ -87,3 +87,37 @@ I prefer systems that can be:
 ---
 
 ## Research Interests
+
+Statistics          Bayesian Methods        Machine Learning
+Optimization        Knowledge Systems       Ontologies
+Semantic Reasoning  Information Theory      VLSI
+
+
+My broader interest is the intersection of **mathematics, computation, data, and structured knowledge**.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" />
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanchowdhury-art&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaboration on research-heavy ML and knowledge systems projects.**
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge)](https://aryanchowdhury-art.github.io/portfolio-2025/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chowdhury-b50069407/)
+[![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryaryan81@gmail.com)
+
+</div>
