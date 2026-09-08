@@ -1,94 +1,256 @@
-&lt;p align="center"&gt;
+<p align="center">
 
 # Aryan Kumar Chowdhury
 
 ### Data Science · Machine Learning · Knowledge Systems
 
-**Building knowledge systems from first principles.**
+**Building data-driven systems from first principles.**
 
-I reconstruct ideas from the ground up, test them experimentally,  
-and focus on understanding **why** a system works, not merely **how** to use it.
+I study how models work beneath their abstractions — from mathematical formulation and optimization to implementation, experimentation, and evaluation.
 
-&lt;br&gt;
+**Understand → Implement → Experiment → Measure → Refine**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aryanchowdhury-art.github.io/portfolio-2025/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chowdhury-b50069407/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryaryan81@gmail.com)
+<p>
+  <a href="https://aryanchowdhury-art.github.io/portfolio-2025/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aryan-chowdhury-b50069407/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chowdhuryaryan81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-&lt;/p&gt;
-
----
-
-&gt; *"Every model is a hypothesis until reality disagrees."*
-
-I prefer systems that can be reduced to **first principles**, expressed **mathematically**, implemented **computationally**, tested **experimentally**, and **falsified** when evidence contradicts them.
-
-`Understand → Build → Test → Refine`
-
----
-
-## What I Work On
-
-| Machine Learning | Data & Knowledge |
-|:---|:---|
-| Statistical learning & model internals | Semantic reasoning & ontologies |
-| Optimization & benchmarking | Information modeling |
-| Experimental validation | Knowledge graph construction |
-
-My broader interest sits at the intersection of **mathematics, computation, data, and structured knowledge** — spanning statistics, Bayesian methods, optimization, information theory, semantic reasoning, and VLSI.
+</p>
 
 ---
 
-## Tech Stack
+> **“Every model is a hypothesis until reality disagrees.”**
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+I approach machine learning as an empirical discipline.
 
-**ML & Data**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+Rather than treating frameworks and algorithms as black boxes, I focus on understanding their underlying **mathematics, assumptions, computational structure, optimization behavior, and failure modes**.
 
-**Engineering**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+My workflow is grounded in:
 
-**Frontend & Analytics**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+* **First principles** — reduce abstractions to fundamental concepts.
+* **Mathematics** — formulate models precisely.
+* **Implementation** — translate theory into executable systems.
+* **Experimentation** — test hypotheses against data.
+* **Evaluation** — quantify performance, error, and limitations.
+* **Falsification** — change or reject assumptions when evidence demands it.
 
 ---
 
-## Featured Work
+## Research & Technical Interests
 
-| Project | Stack | Description |
-|:---|:---|:---|
-| **ML Benchmark Suite** | `Python` `Scikit-learn` `Statistics` | Benchmarking **9 regression algorithms** across **10K+ housing records**. Model comparison, evaluation, error analysis and experimental validation. |
-| **Retail Sentiment & Placement** | `NLP` `Power BI` `DAX` | Combining **sentiment analysis**, demographic modeling and interactive BI to turn raw retail data into interpretable analytical insights. |
-| **Supply Chain Analytics** | `SQL` `CTEs` `Window Functions` | SQL-based analysis of **50K+ transactions** using analytical query patterns. Exploring transactional structure, KPIs and operational patterns. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+* Statistical learning
+* Supervised & unsupervised learning
+* Model optimization
+* Model evaluation & benchmarking
+* Feature engineering
+* Error analysis
+* Experimental methodology
+* Neural networks & deep learning
+* NLP
+* Bayesian methods
+* Information theory
+
+</td>
+
+<td width="50%" valign="top">
+
+### Data & Knowledge Systems
+
+* Data modeling
+* Statistical analysis
+* Semantic reasoning
+* Ontologies
+* Knowledge representation
+* Knowledge graphs
+* Information modeling
+* Analytical systems
+* Structured data pipelines
+* Decision-support systems
+
+</td>
+</tr>
+</table>
+
+My broader interests lie at the intersection of **mathematics, computation, data, and structured knowledge**, with additional interests in optimization, VLSI, and computational systems.
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" /&gt;
-&lt;/p&gt;
+## Technology
 
-&lt;p align="center"&gt;
+### Languages
 
-**Open to collaboration on research-heavy ML and knowledge systems projects.**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge)](https://aryanchowdhury-art.github.io/portfolio-2025/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chowdhury-b50069407/)
-[![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryaryan81@gmail.com)
+### Data Science & Machine Learning
 
-&lt;/p&gt;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+
+### Engineering & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+
+### Analytics & Application
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 01 · ML Benchmark Suite
+
+**Python · Scikit-learn · Statistics**
+
+A systematic comparison of **9 regression algorithms** across **10K+ housing records**.
+
+**Focus**
+
+* Model implementation and comparison
+* Statistical evaluation
+* Performance benchmarking
+* Error analysis
+* Experimental validation
+* Interpretation of model behavior
+
+The objective is not simply to identify the highest-scoring model, but to understand **why different algorithms behave differently under the same data-generating conditions**.
+
+---
+
+### 02 · Retail Sentiment & Placement Analytics
+
+**NLP · Power BI · DAX**
+
+An analytical system combining **sentiment analysis, demographic modeling, and business intelligence** to transform raw retail data into interpretable insights.
+
+**Focus**
+
+* Natural language processing
+* Sentiment classification
+* Demographic analysis
+* KPI design
+* DAX-based analytics
+* Interactive data visualization
+
+---
+
+### 03 · Supply Chain Analytics
+
+**SQL · CTEs · Window Functions**
+
+SQL-based analysis of **50K+ transactional records** focused on extracting operational patterns from structured business data.
+
+**Focus**
+
+* Complex SQL queries
+* Common Table Expressions
+* Window functions
+* KPI computation
+* Transactional analysis
+* Operational pattern discovery
+
+---
+
+## Engineering Philosophy
+
+```text
+Problem
+   ↓
+Decompose
+   ↓
+Mathematical Model
+   ↓
+Implementation
+   ↓
+Experiment
+   ↓
+Measure
+   ↓
+Analyze Failure
+   ↓
+Refine
+```
+
+I value **understanding over abstraction** and **evidence over assumption**.
+
+A library can implement an algorithm.
+
+A strong practitioner should understand the algorithm well enough to **question its assumptions, inspect its behavior, reproduce its results, and determine when it fails**.
+
+---
+
+## Current Direction
+
+```text
+Data Science
+     │
+     ├── Statistics
+     ├── Machine Learning
+     ├── Deep Learning
+     ├── Optimization
+     ├── NLP
+     └── Data Engineering
+            │
+            ▼
+     Knowledge Systems
+            │
+            ├── Semantic Reasoning
+            ├── Knowledge Graphs
+            ├── Ontologies
+            └── Information Modeling
+```
+
+The long-term objective is to build systems that do more than process data — systems capable of **representing, reasoning over, and extracting structure from complex information**.
+
+---
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+---
+
+<p align="center">
+
+### Building systems. Testing hypotheses. Following the evidence.
+
+<a href="https://aryanchowdhury-art.github.io/portfolio-2025/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/aryan-chowdhury-b50069407/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:chowdhuryaryan81@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
