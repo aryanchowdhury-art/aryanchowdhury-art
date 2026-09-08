@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
 
 # Aryan Kumar Chowdhury
 
@@ -15,7 +15,7 @@ and focus on understanding **why** a system works, not merely **how** to use it.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chowdhury-b50069407/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryaryan81@gmail.com)
 
-&lt;/div&gt;
+&lt;/p&gt;
 
 ---
 
@@ -78,16 +78,12 @@ My broader interest sits at the intersection of **mathematics, computation, data
 
 ---
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" /&gt;
+&lt;/p&gt;
 
-&lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /&gt;
-&lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" /&gt;
-
-&lt;br&gt;&lt;br&gt;
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryanchowdhury-art&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-&lt;br&gt;
+&lt;p align="center"&gt;
 
 **Open to collaboration on research-heavy ML and knowledge systems projects.**
 
@@ -95,4 +91,4 @@ My broader interest sits at the intersection of **mathematics, computation, data
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chowdhury-b50069407/)
 [![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryaryan81@gmail.com)
 
-&lt;/div&gt;
+&lt;/p&gt;
