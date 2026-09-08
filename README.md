@@ -1,6 +1,3 @@
-&lt;!-- Banner (optional - replace with your own or remove) --&gt;
-&lt;!-- &lt;img src="https://raw.githubusercontent.com/aryanchowdhury-art/aryanchowdhury-art/main/banner.png" width="100%" /&gt; --&gt;
-
 &lt;div align="center"&gt;
 
 # Aryan Kumar Chowdhury
@@ -22,16 +19,9 @@ and focus on understanding **why** a system works, not merely **how** to use it.
 
 ---
 
-## Philosophy
-
 &gt; *"Every model is a hypothesis until reality disagrees."*
 
-I prefer systems that can be:
-- reduced to **first principles**
-- expressed **mathematically**
-- implemented **computationally**
-- tested **experimentally**
-- **falsified** when evidence contradicts them
+I prefer systems that can be reduced to **first principles**, expressed **mathematically**, implemented **computationally**, tested **experimentally**, and **falsified** when evidence contradicts them.
 
 `Understand → Build → Test → Refine`
 
@@ -44,6 +34,8 @@ I prefer systems that can be:
 | Statistical learning & model internals | Semantic reasoning & ontologies |
 | Optimization & benchmarking | Information modeling |
 | Experimental validation | Knowledge graph construction |
+
+My broader interest sits at the intersection of **mathematics, computation, data, and structured knowledge** — spanning statistics, Bayesian methods, optimization, information theory, semantic reasoning, and VLSI.
 
 ---
 
@@ -78,41 +70,24 @@ I prefer systems that can be:
 
 ## Featured Work
 
-| Project | Focus | Description |
+| Project | Stack | Description |
 |:---|:---|:---|
-| **[ML Benchmark Suite](https://github.com/aryanchowdhury-art/ml-benchmark-suite)** | `Python` `Scikit-learn` `Statistics` | Benchmarking **9 regression algorithms** across **10K+ housing records**. Model comparison, evaluation, error analysis and experimental validation. |
-| **[Retail Sentiment & Placement](https://github.com/aryanchowdhury-art/retail-sentiment-analysis)** | `NLP` `Power BI` `DAX` | Combining **sentiment analysis**, demographic modeling and interactive BI to turn raw retail data into interpretable analytical insights. |
-| **[Supply Chain Analytics](https://github.com/aryanchowdhury-art/supply-chain-sql)** | `SQL` `CTEs` `Window Functions` | SQL-based analysis of **50K+ transactions** using analytical query patterns. Exploring transactional structure, KPIs and operational patterns. |
+| **ML Benchmark Suite** | `Python` `Scikit-learn` `Statistics` | Benchmarking **9 regression algorithms** across **10K+ housing records**. Model comparison, evaluation, error analysis and experimental validation. |
+| **Retail Sentiment & Placement** | `NLP` `Power BI` `DAX` | Combining **sentiment analysis**, demographic modeling and interactive BI to turn raw retail data into interpretable analytical insights. |
+| **Supply Chain Analytics** | `SQL` `CTEs` `Window Functions` | SQL-based analysis of **50K+ transactions** using analytical query patterns. Exploring transactional structure, KPIs and operational patterns. |
 
 ---
 
-## Research Interests
+&lt;div align="center"&gt;
 
-Statistics          Bayesian Methods        Machine Learning
-Optimization        Knowledge Systems       Ontologies
-Semantic Reasoning  Information Theory      VLSI
+&lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /&gt;
+&lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" /&gt;
 
-
-My broader interest is the intersection of **mathematics, computation, data, and structured knowledge**.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanchowdhury-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchowdhury-art&layout=compact&theme=github_dark&hide_border=true" />
-
-<br><br>
+&lt;br&gt;&lt;br&gt;
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryanchowdhury-art&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
-
-<div align="center">
+&lt;br&gt;
 
 **Open to collaboration on research-heavy ML and knowledge systems projects.**
 
@@ -120,4 +95,4 @@ My broader interest is the intersection of **mathematics, computation, data, and
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-chowdhury-b50069407/)
 [![Email](https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhuryaryan81@gmail.com)
 
-</div>
+&lt;/div&gt;
