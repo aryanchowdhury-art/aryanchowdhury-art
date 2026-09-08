@@ -69,8 +69,5 @@ Problem → Mathematics → Implementation → Experiment → Measure → Refine
 
 <br>
 
-<a href="https://aryanchowdhury-art.github.io/portfolio-2025/">Portfolio</a>
-  ·   <a href="https://linkedin.com/in/aryan-chowdhury-b50069407/">LinkedIn</a>
-  ·   <a href="mailto:chowdhuryaryan81@gmail.com">Email</a>
 
 </p>
