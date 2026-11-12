@@ -1,7 +1,7 @@
 # Aryan Kumar Chowdhury
 **Aspiring Data Scientist** · ML · Statistics · NLP · SQL
 
-[Portfolio](https://aryanchowdhury-art.github.io/portfolio-2025/) · [LinkedIn](https://linkedin.com/in/aryan-chowdhury-b50069407/) · [Email](mailto:chowdhuryaryan81@gmail.com)
+[Portfolio]([https://aryanchowdhury-art.github.io/portfolio-2025/](https://aryanchowdhury-art.github.io/Data_analyst-portfolio-/#top)) · [LinkedIn](https://linkedin.com/in/aryan-chowdhury-b50069407/) · [Email](mailto:chowdhuryaryan81@gmail.com)
 
 ---
 
